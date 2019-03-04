@@ -1,0 +1,8 @@
+name: Freeze
+main: me.yolosanta.freeze.Freeze
+version: 1.0
+author: YoloSanta
+
+commands:
+  freeze:
+    aliases: [ss]
